@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **next.js, express.js**
 
-- 👨‍💻 All of my projects are available at [prasannakumar.tech](prasannakumar.tech)
+- 👨‍💻 All of my projects are available at [https://prasannakumar.tech/](https://prasannakumar.tech/)
 
 - 📫 How to reach me **prasannakumar2468@gmail.com**
 
